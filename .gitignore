@@ -1,0 +1,6 @@
+# MATLAB
+*.asv
+*.fig
+*.mat
+*~          # backup files
+.DS_Store
